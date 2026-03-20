@@ -24,7 +24,10 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+## Calculation
+
+![WhatsApp Image 2026-03-19 at 7 11 49 PM](https://github.com/user-attachments/assets/1a9e78ad-cb49-4a2c-befe-f9f07c2bdecc)
+
 
 ## Graph
 
