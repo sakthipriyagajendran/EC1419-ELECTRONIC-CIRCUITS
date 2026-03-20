@@ -16,6 +16,8 @@
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
+<img width="897" height="594" alt="image" src="https://github.com/user-attachments/assets/8dde4135-4a56-4c04-b677-2dd8e616d89d" />
+
 
 ## MODEL GRAPH
 
