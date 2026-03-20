@@ -33,10 +33,13 @@
 
 ## Graph
 
+<img width="1074" height="305" alt="image" src="https://github.com/user-attachments/assets/4cb2cae4-2582-4b3a-968a-c2a6b191fca6" />
+
+
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN =** 68 dB
 
-**BANDWIDTH =**
+**BANDWIDTH =** 69.9Mhz
