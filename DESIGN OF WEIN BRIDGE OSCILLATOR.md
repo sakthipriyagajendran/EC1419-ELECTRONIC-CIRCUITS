@@ -10,6 +10,8 @@
 ## OSCILLATOR DESIGN
 <img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
+
+
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 **CALCULATION:**
