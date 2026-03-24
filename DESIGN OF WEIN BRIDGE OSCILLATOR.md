@@ -1,4 +1,4 @@
-## EXP NO:2
+<img width="1330" height="389" alt="image" src="https://github.com/user-attachments/assets/558ed533-880c-4d88-aba9-4ef43d417862" /><img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8480cd7a-1fcf-4a75-865c-dc35a90a3e80" />## EXP NO:2
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
@@ -10,6 +10,10 @@
 ## OSCILLATOR DESIGN
 <img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
+<img width="762" height="673" alt="image" src="https://github.com/user-attachments/assets/1bcf1bcd-3bc6-4c88-9b4c-5e8518136e65" />
+
+ 
+<img width="1354" height="705" alt="image" src="https://github.com/user-attachments/assets/eeb415ad-3927-403f-9699-772ce8b107bf" />
 
 
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
@@ -20,9 +24,15 @@
 
 ## Graph
 
+<img width="1369" height="763" alt="image" src="https://github.com/user-attachments/assets/04006c89-daf3-4fde-b7da-21d565a8364b" />
+
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+
+Practical frequency of Oscillation = 588 HZ
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation = 159 HZ
+<img width="1369" height="763" alt="image" src="https://github.com/user-attachments/assets/c7b4ff33-e3d8-46be-bd88-11a3299f1b7f" />
+
+
