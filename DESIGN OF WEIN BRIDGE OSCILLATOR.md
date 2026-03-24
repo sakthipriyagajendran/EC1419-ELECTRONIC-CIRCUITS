@@ -1,4 +1,4 @@
-<img width="1330" height="389" alt="image" src="https://github.com/user-attachments/assets/558ed533-880c-4d88-aba9-4ef43d417862" /><img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8480cd7a-1fcf-4a75-865c-dc35a90a3e80" />## EXP NO:2
+## EXP NO:2
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
