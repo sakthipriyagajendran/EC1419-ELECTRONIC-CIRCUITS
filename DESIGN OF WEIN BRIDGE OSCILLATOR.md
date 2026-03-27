@@ -23,10 +23,11 @@
 
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+
 Practical frequency of Oscillation = 588 HZ
 
-
 Theoritical Frequency of Oscillation = 159 HZ
+
 <img width="1369" height="763" alt="image" src="https://github.com/user-attachments/assets/c7b4ff33-e3d8-46be-bd88-11a3299f1b7f" />
 
 
